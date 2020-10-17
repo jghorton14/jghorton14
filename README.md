@@ -8,7 +8,7 @@
 </h1>
 <br/>
 
-- 🔭 I’m currently working on creating useful projects to help abstract daily problems with code
+- 🔭 I’m currently working on creating useful projects to help abstract away annoying problems through code
 - 🌱 I’m currently learning: DataSci, Microservices, Nifi
 - 🤔 I’m looking for help with how not to be a noob at code
 - 💬 Ask me about anything AWS
