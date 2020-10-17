@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://www.gatsbyjs.com">
+    <img alt="Gatsby" src="./content/assets/icon2.png" width="60" style="border-radius: 50%" />
+  </a>
+</p>
+<h1 align="center">
+  Jarrett Horton
+</h1>
+<br/>
 
-<!--
-**jghorton14/jghorton14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on creating useful projects to help abstract daily problems with code
+- 🌱 I’m currently learning: DataSci, Microservices, Nifi
+- 🤔 I’m looking for help with how not to be a noob at code
+- 💬 Ask me about anything AWS
+- 📫 How to reach me: jghorton14@protonmail.com
+- ⚡ Fun fact: I dabble in woodworking and slacking off
