@@ -14,3 +14,8 @@
 - 💬 Ask me about anything AWS
 - 📫 How to reach me: jghorton14@protonmail.com
 - ⚡ Fun fact: I dabble in woodworking and slacking off
+
+[![Jarrett's github stats](https://github-readme-stats.vercel.app/api?username=jghorton14)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
